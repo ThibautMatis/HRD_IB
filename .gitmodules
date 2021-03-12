@@ -1,0 +1,3 @@
+[submodule "HRD_detection"]
+	path = HRD_detection
+	url = https://github.com/ThibautMatis/HRD_detection.git
