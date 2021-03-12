@@ -4,3 +4,6 @@
 [submodule "LOH_detection"]
 	path = LOH_detection
 	url = https://github.com/ThibautMatis/LOH_detection.git
+[submodule "SNV_detection"]
+	path = SNV_detection
+	url = https://github.com/ThibautMatis/SNV_detection.git
